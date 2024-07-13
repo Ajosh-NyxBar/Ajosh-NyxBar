@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rifky Akbar (AJOSH)</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-
 <!-- FOTO SAYA -->
 <p align="center">
-  <img src="https://github.com/ajosh-nyxbar/Ajosh-NyxBar/blob/main/IMG_20230305_145557.jpg" alt="Foto Saya" width="200" height="200">
+  <img src="/img/bannerGitHub.jpg" alt="Foto Saya" width="100%">
 </p>
 <!-- FOTO SAYA -->
 
@@ -12,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajosh-nyxbar" alt="ajosh-nyxbar" /></a> </p>
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I'm currently learning **Next Js**
 
 - 👨‍💻 All of my projects are available at [https://portofolio-saya-black.vercel.app/](https://portofolio-saya-black.vercel.app/)
 
