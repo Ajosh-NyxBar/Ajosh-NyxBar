@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rifky Akbar (AJOSH)</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajosh-nyxbar&layout=compact&theme=dark" />
+
+<!-- FOTO SAYA -->
+<p align="center">
+  <img src="https://github.com/ajosh-nyxbar/Ajosh-NyxBar/blob/main/IMG_20230305_145557.jpg" alt="Foto Saya" width="200" height="200">
+</p>
+<!-- FOTO SAYA -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajosh-nyxbar&label=Profile%20views&color=0e75b6&style=flat" alt="ajosh-nyxbar" /> </p>
 
