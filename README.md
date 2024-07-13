@@ -5,7 +5,8 @@
 <p align="center">
   <img src="/img/bannerGitHub.jpg" alt="Foto Saya" width="100%">
 </p>
-<!-- FOTO SAYA -->
+<!-- FOTO SAYA KELAR-->
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajosh-nyxbar&label=Profile%20views&color=0e75b6&style=flat" alt="ajosh-nyxbar" /> </p>
 
