@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner - Anime Pink/Purple Theme -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,30:6a0dad,60:ff007f,100:ff6ec7&height=220&section=header&text=Muhammad%20Rifky%20Akbar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✨%20Frontend%20Developer%20%7C%20React%20Enthusiast%20%7C%20Indonesia%20🇮🇩%20✨&descAlignY=58&descSize=15" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,30:6a0dad,60:ff007f,100:ff6ec7&height=220&section=header&text=Muhammad%20Rifky%20Akbar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Frontend%20Developer%20%7C%20React%20Enthusiast%20%7C%20Indonesia%20🇮🇩%20&descAlignY=58&descSize=15" />
 
 <!-- Typing Animation - Anime Pink -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=FF6EC7&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Akbar+%F0%9F%91%8B%E2%9C%A8;A+Passionate+Frontend+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Tailwind+CSS+Lover+%F0%9F%92%96;Always+learning%2C+always+growing...+%F0%9F%8C%B1;Let's+build+something+amazing!+%F0%9F%8C%9F" alt="Typing SVG" />
@@ -10,9 +10,9 @@
 
 <!-- Profile Views & Followers Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ajosh-nyxbar&label=👁️+Profile+Views&color=fe428e&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ajosh-nyxbar&label=+Profile+Views&color=fe428e&style=for-the-badge" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/ajosh-nyxbar?label=🌸+Followers&style=for-the-badge&color=a960ee&labelColor=0d0d2b" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/ajosh-nyxbar?label=+Followers&style=for-the-badge&color=a960ee&labelColor=0d0d2b" alt="Followers" />
 </p>
 
 </div>
@@ -119,7 +119,7 @@ const Akbar = {
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajosh-nyxbar&theme=radical" />
 
 <br/>
-
+F
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajosh-nyxbar&theme=radical" />
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajosh-nyxbar&theme=radical" />
